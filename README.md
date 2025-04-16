@@ -7,15 +7,6 @@ I'm a Full Stack Developer with experience in both frontend and backend technolo
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gisg99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ### 🚀 Tech Stack
 
 <p align="left">
@@ -48,11 +39,11 @@ I'm a Full Stack Developer with experience in both frontend and backend technolo
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gisg99&show_icons=true&theme=radical" alt="Gabriel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielsanchezz99&show_icons=true&theme=radical" alt="Gabriel's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisg99&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsanchezz99&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---

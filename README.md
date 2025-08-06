@@ -33,7 +33,9 @@ I'm a Full Stack Developer with experience in both frontend and backend technolo
   <img src="https://img.icons8.com/ios-filled/50/fa314a/laravel.png" alt="Laravel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 </p>
+
 ---
+
 ### 📊 GitHub Stats
 [![Estadísticas de gisg99](https://github-readme-stats.vercel.app/api?username=gisg99&show_icons=true&theme=radical)](https://github.com/gisg99)
 

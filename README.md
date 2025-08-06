@@ -34,10 +34,15 @@ I'm a Full Stack Developer with experience in both frontend and backend technolo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 </p>
 ---
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 [![Estadísticas de gisg99](https://github-readme-stats.vercel.app/api?username=gisg99&show_icons=true&theme=radical)](https://github.com/gisg99)
+
+### 🔥 Racha de Contribuciones
 [![Racha de Contribuciones](https://streak-stats.demolab.com/?user=gisg99&theme=radical)](https://github.com/gisg99)
+
+### 🧰 Lenguajes Más Usados
 [![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=gisg99&layout=compact&theme=radical)](https://github.com/gisg99)
+
 ---
 ### 📫 Let's Connect
 

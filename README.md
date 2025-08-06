@@ -36,11 +36,8 @@ I'm a Full Stack Developer with experience in both frontend and backend technolo
 ---
 ### 📈 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=gisg99&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="gisg99's GitHub Stats" />
----
-![gisg99's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gisg99&theme=dark&hide_border=false)
----
-![gisg99's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gisg99&theme=dark&show_icons=true&hide_border=false&layout=compact)
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisg99&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="gisg99's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=gisg99&theme=tokyonight&hide_border=true" alt="gisg99's GitHub Stats" />
 ### 📫 Let's Connect
 
 <p align="left">

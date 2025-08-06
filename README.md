@@ -35,7 +35,7 @@ I'm a Full Stack Developer with experience in both frontend and backend technolo
 </p>
 ---
 ### 📈 GitHub Stats
-![gisg99's Stats](https://github-readme-stats.vercel.app/api?username=gisg99&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![Gabriel's stats](https://github-readme-stats.vercel.app/api?username=gisg99&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ---
 ![gisg99's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gisg99&theme=dark&hide_border=false)
 ---
